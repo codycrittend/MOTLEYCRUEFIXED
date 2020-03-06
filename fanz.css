@@ -1,0 +1,29 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+  background: #c13832;
+}
+form {
+  width: 300px;
+}
+h1 {
+  font-size: 50px;
+  line-height: 60px;
+  margin: 0 0 0 9px;
+}
+input {
+  width: 90%;
+}
+
+
+textarea {
+  resize: vertical;
+  max-height: 100px;
+}
+
+
+input, textarea {
+  outline: none;
+  border: 20px solid #000000;
+  padding:10px;
+  padding-right: 30px;
+}
